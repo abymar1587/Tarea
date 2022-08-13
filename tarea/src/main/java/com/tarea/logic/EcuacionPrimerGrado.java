@@ -1,7 +1,7 @@
-package Aury.Tarea;
+package com.tarea.logic;
 
 public class EcuacionPrimerGrado {
     public float FindRoot() {
-        return 0.0;
+        return (float) 0.0;
     }
 }

@@ -1,3 +1,4 @@
+package Aury.Tarea;
 import javax.swing.JFrame;//proporciona características de una ventana
 import javax.swing.JMenuBar;
 import javax.swing.JMenu;
